@@ -6,3 +6,7 @@ source venv/bin/activate
 
 (Para MacOS)
 
+
+Ejectar app.py para usuarios.
+Al igual que se puede ejecutar studio_ghibili.py para consultar las peliculas de esa misma API.
+
